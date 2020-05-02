@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns="http://www.w7.cc" versionCode="">
+	
+	<application setting='false'>
+		<name><![CDATA[背景图]]></name>
+
+		<identifie><![CDATA[bjt_bjt]]></identifie>
+
+		<version><![CDATA[1.0.0]]></version>
+
+		<ability><![CDATA[]]></ability>
+
+		<type><![CDATA[]]></type>
+
+		<description><![CDATA[背景图片小程序，可以采集图片，手动添加图片，分类管理，系统设置。]]></description>
+
+		<author><![CDATA[chenjiasange]]></author>
+
+		<url><![CDATA[]]></url>
+
+		<setting><![CDATA[]]></setting>
+
+	</application>
+
+	
+	<platform>
+		<rule embed="false" />
+
+		<rule embed="false" />
+
+	<supports>
+
+			<item type="wxapp" />
+	</supports>
+
+	</platform>
+
+	
+	<bindings>
+
+		<menu>
+			<entry title="信息管理" do="index" state="1" direct="" displayorder="0" multilevel="false" parent="" />
+		</menu>
+
+		<page>
+			<entry title="首页" do="/bjt_bjt/pages/index/index" state="" direct="" displayorder="0" multilevel="false" parent="" />
+		</page>
+
+	</bindings>
+
+	<install><![CDATA[]]></install>
+	<uninstall><![CDATA[]]></uninstall>
+	<upgrade><![CDATA[]]></upgrade>
+</manifest>
