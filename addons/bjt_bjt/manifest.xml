@@ -8,9 +8,9 @@
 
 		<version><![CDATA[1.0.0]]></version>
 
-		<ability><![CDATA[]]></ability>
+		<ability><![CDATA[背景图片小程序，可以采集图片，手动添加图片，分类管理，系统设置。]]></ability>
 
-		<type><![CDATA[]]></type>
+		<type><![CDATA[biz]]></type>
 
 		<description><![CDATA[背景图片小程序，可以采集图片，手动添加图片，分类管理，系统设置。]]></description>
 
